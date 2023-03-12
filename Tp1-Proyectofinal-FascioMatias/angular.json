@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
+              "Tp1-Proyectofinal-FascioMatias/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "Tp1-Proyectofinal-FascioMatias/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "3a90f212-89d0-4b0a-bf2a-0ec21f0cf4cc"
   }
 }
